@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "BarcodeGenerator": {
+      "commandName": "Project"
+    }
+  }
+}
